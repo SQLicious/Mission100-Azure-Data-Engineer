@@ -32,12 +32,12 @@ Welcome to my GitHub repository documenting my hands-on journey through the Micr
 
 ## Assignments Overview
 
-1. [Assignment 4: ADF Pipeline 1](Week_4/Assignment_4.md)
-2. [Assignment 5: ADF Pipeline 2](Week_5/Assignment_5.md)
-3. [Assignment 6: ADF Pipeline 3](Week_6/Assignment_6.md)
-4. [Assignment 7: ADF Pipeline 4](Week_7/Assignment_7.md)
-5. [Assignment 8: ADF Data Flow](Week_8/Assignment_8.md)
-6. [Assignment 9: Advanced ADF Data Flow](Week_9/Assignment_9.md)
+1. [Assignment 4: ADF Pipeline 1](https://github.com/SQLicious/Mission100-Azure-Data-Engineer/blob/6fa67a681062eaf570c5a414893adf5d7c61d64e/Azure%20DE%20Oct%207%20Batch%20Assignment%204%20by%20RG.docx)
+2. [Assignment 5: ADF Pipeline 2](https://github.com/SQLicious/Mission100-Azure-Data-Engineer/blob/6fa67a681062eaf570c5a414893adf5d7c61d64e/Azure%20DE%20Oct7%20%20Batch%20Assignment%205%20by%20RG.docx)
+3. [Assignment 6: ADF Pipeline 3](https://github.com/SQLicious/Mission100-Azure-Data-Engineer/blob/6fa67a681062eaf570c5a414893adf5d7c61d64e/Azure%20DE%20Oct%20Batch%20Assignment%206%20by%20RG.docx)
+4. [Assignment 7: ADF Pipeline 4](https://github.com/SQLicious/Mission100-Azure-Data-Engineer/blob/6fa67a681062eaf570c5a414893adf5d7c61d64e/Azure%20DE%20Oct%20Batch%20Assignment%207%20by%20RG.docx)
+5. [Assignment 8: ADF Data Flow](https://github.com/SQLicious/Mission100-Azure-Data-Engineer/blob/6fa67a681062eaf570c5a414893adf5d7c61d64e/Azure%20DE%20Oct%20Batch%20Assignment%208%20by%20RG.docx)
+6. [Assignment 9: Advanced ADF Data Flow](https://github.com/SQLicious/Mission100-Azure-Data-Engineer/blob/6fa67a681062eaf570c5a414893adf5d7c61d64e/Azure%20DE%20Oct%20Batch%20Assignment%208%20Tough%20questions%20by%20RG.docx)
 7. [Assignment 10: Rest API / Triggers](Week_10/Assignment_10.md)
 8. [Assignment 11: SCD Types / Rest API Part 2](Week_11/Assignment_11.md)
 9. [Assignment 12: Triggers & Git Configuration](Week_12/Assignment_12.md)
