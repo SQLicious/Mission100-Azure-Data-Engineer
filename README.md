@@ -10,7 +10,7 @@ Welcome to my GitHub repository documenting my hands-on journey through the Micr
   - Blob Storage Configurations
   - ADLS Fundamentals
 - **Assignments:**
-  - [Storage Account Assignment](Week_1/Assignment_1.md)
+  - [Storage Account Assignment](https://github.com/SQLicious/Mission100-Azure-Data-Engineer/blob/62c7a3b3eeab2ba6353e4d3370106b14ebf7349a/Azure%20DE%20Oct7%20Batch%20Assignment%201%20by%20RG.docx)
 
 ### Week 2
 - **Topics Covered:**
