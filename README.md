@@ -50,6 +50,6 @@ Welcome to my GitHub repository documenting my hands-on journey through the Micr
 ## How to Use
 1. Clone the repository: `git clone https://github.com/your-username/azure-data-engineering-journey.git`
 2. Navigate to the specific week or assignment folder for details.
-3. Refer to each assignment's markdown file for instructions and details.
+3. Refer to each assignment's doc file for instructions and details of ETL Pipelines executed
 
 Feel free to reach out if you have questions or suggestions! Happy learning! 🚀
